@@ -92,4 +92,3 @@ while start:
         print(coffee)
     elif action == "exit":
         start = False
-finish
